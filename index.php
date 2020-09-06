@@ -25,8 +25,8 @@
             });
         }
 }
-         let base_url = "http://localhost/Niha/restaurant/item.php";
-       // let base_url = "http://edutechclsx.000webhostapp.com/api/test/";
+        // let base_url = "http://localhost/Niha/restaurant/item.php";
+        let base_url = "https://github.com/Niharikas2000/restaurant2030/blob/master/item.php";
 
         $("document").ready(function(){
              getItemNameList();
