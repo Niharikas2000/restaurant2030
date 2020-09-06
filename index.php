@@ -26,7 +26,7 @@
         }
 }
         // let base_url = "http://localhost/Niha/restaurant/item.php";
-        let base_url = "https://github.com/Niharikas2000/restaurant2030/blob/master/item.php";
+        let base_url = "https://restaurant2030.herokuapp.com/item.php";
 
         $("document").ready(function(){
              getItemNameList();
