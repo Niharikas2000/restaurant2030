@@ -26,7 +26,7 @@
         }
 }
         // let base_url = "http://localhost/Niha/restaurant/item.php";
-        let base_url = "https://git.heroku.com/restaurant2030.git/item.php";
+        let base_url = "https://restaurant2030.herokuapp.com/item.php";
 
         $("document").ready(function(){
              getItemNameList();
